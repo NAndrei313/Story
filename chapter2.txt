@@ -1,1 +1,1 @@
-Today i will learn about git. I'm very excited!
+Today i will learn about git and github. I'm very excited!
